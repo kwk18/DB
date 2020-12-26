@@ -1,0 +1,3 @@
+SELECT S.ids, S.sname, S.city;
+ FROM data1!s;
+ WHERE  S.city = "London"

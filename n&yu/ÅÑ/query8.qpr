@@ -1,0 +1,3 @@
+SELECT S.ids, S.sname;
+ FROM data1!s;
+ WHERE  S.sname LIKE "_l%"

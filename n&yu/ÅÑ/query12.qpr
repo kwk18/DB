@@ -1,0 +1,2 @@
+SELECT COUNT(DISTINCT Sp.ids);
+ FROM data1!sp

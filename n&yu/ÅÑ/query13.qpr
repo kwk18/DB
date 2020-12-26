@@ -1,0 +1,2 @@
+SELECT SUM(Sp.qty);
+ FROM data1!sp

@@ -1,0 +1,3 @@
+SELECT COUNT(S.ids) AS count_s;
+ FROM ;
+     data1!s

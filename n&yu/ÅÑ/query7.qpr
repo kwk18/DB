@@ -1,0 +1,4 @@
+SELECT S.ids, S.sname, S.status;
+ FROM data1!s;
+ WHERE  S.status BETWEEN 10 and 30;
+   AND  S.status NOT IN (10, 30)

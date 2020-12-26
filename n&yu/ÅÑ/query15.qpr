@@ -1,0 +1,4 @@
+SELECT Sp.end, SUM(Sp.qty);
+ FROM data1!sp;
+ GROUP BY Sp.end;
+ HAVING  SUM(Sp.qty) > 500

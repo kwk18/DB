@@ -1,0 +1,4 @@
+SELECT S.ids, S.sname, S.status, S.city;
+ FROM data1!s;
+ WHERE  S.city = "Paris";
+   AND  S.status > 20

@@ -1,0 +1,3 @@
+SELECT Sp.idp, Sp.qty, Sp.end;
+ FROM data1!sp;
+ ORDER BY Sp.qty DESC

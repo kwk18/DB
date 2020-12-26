@@ -1,0 +1,4 @@
+SELECT P.idp, P.pname, P.color;
+ FROM data1!p;
+ WHERE  P.color = "Red";
+   OR  P.color = "red"
